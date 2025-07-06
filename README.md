@@ -24,7 +24,7 @@ Play against the computer and test your luck and logic!
 ---
 
 ## 🎮 Live Demo
-🔗 [Click here to play the game](https://your-netlify-link.com)
+🔗 [Click here to play the game](https://rpsakanksha.netlify.app/)
 ---
 
 
