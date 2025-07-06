@@ -43,6 +43,8 @@ If you like this project, give it a **star ⭐** and share it with others!
 ## 📂 Folder Structure
 
 ├── index.html → Game layout
+
 ├── style.css → Styles and animations
+
 ├── script.js → Game logic
 
