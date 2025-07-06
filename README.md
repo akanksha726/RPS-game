@@ -4,7 +4,7 @@
 
 > A fun and interactive Rock Paper Scissors game built using **HTML, CSS, and JavaScript**. Challenge the computer, test your luck, and see if you can win!
 
-![Game Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9mb2RscnRyaWxvOXR1bWV3b2lhN3NybjVvNjAyb2Z1czR5c2tpciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qLHzYjl8vnb3bFVy1K/giphy.gif)
+![Game Preview]https://upload.wikimedia.org/wikipedia/commons/6/67/Rock-paper-scissors.svg
 
 ---
 
