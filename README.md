@@ -27,6 +27,18 @@ Play against the computer and test your luck and logic!
 🔗 [Click here to play the game](https://rpsakanksha.netlify.app/)
 ---
 
+## 🙋‍♀️ About Me
+
+I'm **Akanksha Singh**, a web developer who loves building creative, fun, and interactive projects.
+
+🔗 [My GitHub](https://github.com/akanksha726)
+
+---
+
+## ⭐ Show some love
+
+If you like this project, give it a **star ⭐** and share it with others!
+---
 
 ## 📂 Folder Structure
 
