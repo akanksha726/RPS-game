@@ -1,61 +1,36 @@
-# RPS-game
+RPS-game
 
-# 🎮 Rock Paper Scissors Game
+# ✊🖐✌️ Rock Paper Scissors Game
 
-> A fun and interactive Rock Paper Scissors game built using **HTML, CSS, and JavaScript**. Challenge the computer, test your luck, and see if you can win!
-
-![Game Preview]https://upload.wikimedia.org/wikipedia/commons/6/67/Rock-paper-scissors.svg
-
----
-
-## 🧠 Features
-
-- 🎨 Clean & Responsive UI
-- 🕹️ Simple Game Logic (User vs Computer)
-- 💥 Dynamic result display with animations
-- 🔁 Random computer move generator
-- 📱 Mobile-friendly
+## 📌 Project Overview
+A classic and exciting **Rock Paper Scissors** game built with **HTML, CSS, and JavaScript**.  
+Play against the computer and test your luck and logic!
 
 ---
 
-## 🚀 Live Demo
-
-👉 [Play Now](https://your-live-link.netlify.app)  
-*Deployed with Netlify*
-
----
-
-## 📸 Screenshots
-
-| Start Screen | Game In Action | Result View |
-|--------------|----------------|-------------|
-| ![start](./assets/screenshot1.png) | ![playing](./assets/screenshot2.png) | ![result](./assets/screenshot3.png) |
+## 🌟 Key Features
+- ✅ Single-player gameplay (You vs Computer)
+- ✅ Random computer moves
+- ✅ Instant result: Win, Lose, or Draw
+- ✅ Smooth animations and visual feedback
+- ✅ Clean, mobile-friendly interface
 
 ---
 
-## 🛠️ Tech Stack
+## 📸 Preview
 
-- **HTML5** – Structure  
-- **CSS3** – Styling and layout  
-- **JavaScript (Vanilla)** – Game logic and interactions
+![Game Preview](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif) 
 
 ---
 
-## 🎲 Game Rules
-
-1. You choose **Rock**, **Paper**, or **Scissors**.
-2. The computer randomly picks one as well.
-3. The result is displayed:
-   - 🪨 Rock crushes Scissors  
-   - 📄 Paper covers Rock  
-   - ✂️ Scissors cuts Paper  
-
+## 🎮 Live Demo
+🔗 [Click here to play the game](https://your-netlify-link.com)
 ---
 
-## 📁 Project Structure
 
-RPS-game/
-│
-├── index.html # Main HTML file
-├── style.css # Styling and animations
-├── script.js # Game logic
+## 📂 Folder Structure
+
+├── index.html → Game layout
+├── style.css → Styles and animations
+├── script.js → Game logic
+
